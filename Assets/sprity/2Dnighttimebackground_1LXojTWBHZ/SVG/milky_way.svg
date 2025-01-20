@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="271"
+   viewBox="0 0 507.99998 71.702085"
+   version="1.1"
+   id="svg23489"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="milky_way.svg">
+  <defs
+     id="defs23483" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#7d848b"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.42617864"
+     inkscape:cx="1141.124"
+     inkscape:cy="-287.00555"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="false"
+     showborder="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     guidetolerance="28"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid24034"
+       spacingx="1px"
+       spacingy="1px"
+       empspacing="8"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="555.22452px"
+       originy="-321.17215px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata23486">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Robert Brooks</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(146.90315,-140.32111)">
+    <path
+       style="opacity:0.42040818;color:#000000;fill:#5c3b8e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.02700043;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -48.253326,140.47634 c -22.357558,0.18208 -31.813438,18.54563 -98.649844,18.54563 l 0,26.71465 c 54.662109,0 59.987575,-15.732 89.885378,-11.44323 30.655274,4.39743 54.3121583,34.30022 85.14761,37.17396 67.480524,6.28893 130.440872,-42.80595 198.159622,-45.5166 45.37997,-1.81648 75.71741,19.78587 134.8074,19.78587 l 0,-26.71465 c -57.95411,0 -55.37806,-6.04259 -101.72625,-2.48504 -14.48967,1.78101 -35.04227,3.10982 -50.13055,1.93107 -36.00773,-2.81306 -99.59079,-19.13298 -139.53689,-6.1929 -28.939567,9.37464 -58.63768,27.97655 -72.3399126,16.84238 -9.0110364,-10.23662 -16.8387534,-22.42489 -29.4022984,-26.07799 -6.380043,-1.85513 -11.574018,-2.60094 -16.214265,-2.56315 z m 192.528846,15.70963 c 5.00037,-2.5e-4 10.15263,0.19146 15.45357,0.58705 25.71799,1.91922 56.07987,4.53849 80.12576,5.92171 -8.22548,0.64379 -15.21231,-2.45507 -29.03847,-2.39535 -66.55999,0.28751 -120.83386,34.51471 -145.298748,36.05995 -21.037139,1.32875 -29.418515,2.52895 -41.835937,-6.07598 -1.731918,-1.20017 28.38458,1.78482 53.622741,-12.78644 22.548953,-13.01864 36.413274,-21.3094 66.971084,-21.31094 z"
+       id="rect6277"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccssscccsscsssscsssss" />
+  </g>
+</svg>

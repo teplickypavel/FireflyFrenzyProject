@@ -1,0 +1,3405 @@
+fileFormatVersion: 2
+guid: 16785bff2b6d8e64da06145f284dc442
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc01fa6bfeb8cf54a974dda284a86b8c
+      internalID: -1751812934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0e347554223c44f9bbeea34870df75
+      internalID: 910884382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943e066a51e353a41874b6ea623a0776
+      internalID: -1144100853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abcc8137b5919b44b74a471479e6c97
+      internalID: -726099818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce7f00319464f45ad3935add39b3da
+      internalID: -689519266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b68a914d4e86243a64387b4bd329b3
+      internalID: -510750088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c20750cbfca7b448f463b183760aba
+      internalID: -1593379162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0afffe85dc8194597517d19d2fda6d
+      internalID: 1718779830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0292e4e18e9dfca4e96b2691efccf553
+      internalID: -1165018304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004335cb353426943862fffbf99f4b21
+      internalID: -666947525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42356a5f27974cb49bb5ea80ccc4925a
+      internalID: 1168741543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df05b12ac4aa74c45ad9a3baa48f2214
+      internalID: 642868206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecbb83807a3f714b9cf4d84d23fceff
+      internalID: 224162926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68d9caefca6a64ca8687e3c0bb449e
+      internalID: 1562154236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ba73ee11960e744bab1e74b34413db
+      internalID: 1429685534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_15
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf36be967ed5ce429467b4b2d7a3a3c
+      internalID: -517704961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_16
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf6dd48afabbe7459168c94b5c57b07
+      internalID: 314010669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_17
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a604a13ee8ff6ce40a022f80bec7f505
+      internalID: 151483975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_18
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9313552279c4c142b505e1daac8da0c
+      internalID: 933469838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_19
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e9c78eee6e17478b66b5a068d2d4e
+      internalID: 2123739830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb38399494a07374bb48b87328038a5a
+      internalID: 1372289648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b6c3cb701173e43ae38d78738b6c3a
+      internalID: 630001258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b7cbce9e448af4982a6331f950be83
+      internalID: 1969952193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d25b1d0b399c349a98813745b05b83
+      internalID: 626492737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_24
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61780dded39e6a4f8ff12039e3801ed
+      internalID: -1606764509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_25
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb99b725712a44c44af28a86620ed659
+      internalID: 381984281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_26
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528d9c02fbd461c4a90e8f7e32fa987e
+      internalID: 615015951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_27
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ca6ce84f1612842b9978a63c065cfe
+      internalID: 1086146075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_28
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a27ea262bd254289b75dd78063e48
+      internalID: -1770313751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_29
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7594c85741f493f46b7bc999a39df004
+      internalID: 88043707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790334d7dee8484cab1ac7910bd55f3
+      internalID: 1258048769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b668205188d803949adeb6c4e219a1e3
+      internalID: -2118716732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f6ad8e843f9240a9a03c4a461e660
+      internalID: 1846356846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f74ca6921cc3047ae85ea9ea5ec54c
+      internalID: 1193672434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_34
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75072d82fb77c9e46a8ee571cf1d1001
+      internalID: -1763800954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_35
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c7260ace03414a90df9dc03bb69cc
+      internalID: 173271722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_36
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785a9df273d72b2478b62d09dd9cb31a
+      internalID: 667491298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_37
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ab5a45b005bf44da344ba08421b419
+      internalID: -381165284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_38
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e5b233712759e4583b8a38aab59200
+      internalID: -1033055189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_39
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2910a35d56bed5e40a67091e4ad02ac3
+      internalID: 1405187235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a488d3320e0fdb428973a091419bc42
+      internalID: 517234369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63f6a7b1832cb4d9d0130be2a1194e
+      internalID: 506546217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724baf2f6ecc8be4cae1558910f27e17
+      internalID: -940840880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4a2d8e017def8458e61a357b3a5ee9
+      internalID: 844006727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e642fe5974e94bbb071a7c9fbb9e8
+      internalID: 1604524854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd45de6fb18ee442b6519e4fd92b5f9
+      internalID: 1456418135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38562f47db23d54f9cb918496c3fe60
+      internalID: 538968002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb55f3318458de04ca97d9cc469f43be
+      internalID: 1317833695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_48
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f9bdf6d3b73a646beb24ec8c4c9093
+      internalID: 746778353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_49
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1681a1362b35add4295bd891b2ab4b19
+      internalID: -2044418586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedf56c450ae3544cbdf938d870e0906
+      internalID: -1524470184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dcbca925e01df4ab4231a5c01a58f7
+      internalID: 424493429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb652483a95d8d44bc4af38cc18e8a2
+      internalID: -1697780447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8372dc1bab715c94eb88d4178450d126
+      internalID: -1584318660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_54
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a72348f047e7e144a2b140f088cc8c2
+      internalID: -1795863140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_55
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5e91d6ef9538f4bb14988a9f1b7dc7
+      internalID: -1224446632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_56
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978881b664050c14bb410a6accceeecf
+      internalID: -1419606464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_57
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7800686c606c7c045b6036a725bda5be
+      internalID: -36984498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_58
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d09eaadb2b93b248a7bee895f0908ce
+      internalID: 1914512404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_59
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7073acc3ca8ba4ca5fed865779fb70
+      internalID: -850000167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bce0ecef659f074fbd3c97fc3219dc5
+      internalID: 448817957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f957cdba3770e4d85517691d77e881
+      internalID: 390036686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_62
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e13aaf4c85dc244fa2bcc1fc60eba0e
+      internalID: -38351690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_63
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea54697edfcaf924abedc4e447a98ebf
+      internalID: 668188901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_64
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b1a49d6e939774b9730eb2ca9ace8e
+      internalID: -1935978029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_65
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd37d128872d7e43bdef8b91050232f
+      internalID: -1431101069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_66
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf14b277d98dbd46b9bca2d2b3a031e
+      internalID: -1040005153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_67
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11329b618d3596499a03c36861779f0
+      internalID: 775967026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_68
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08aba0706e41294bb1e60aef4bf5ba8
+      internalID: 1336437635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_69
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddece76c1e19c9e4fad4eff73a441aa8
+      internalID: -1400427064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4920863a23bd49a771abbf0e99bb4
+      internalID: 1003623150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1a052ffd7b2a40a26fd06a42f147a
+      internalID: 46029970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef6f0de84f72441bd2e63a3be4d410
+      internalID: -396587071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_73
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c4d9e3135db974fbc25d71890c2fa4
+      internalID: -624005810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_74
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454ac9383191954cb34ae4b27d6d85b
+      internalID: -1327877533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_75
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856003fe7edf2794a8a5d1a4a026848b
+      internalID: -414778417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_76
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6289384d146ca164cb16aa84988a7b7f
+      internalID: -1358320806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_77
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d158428e2dd524ab8746e53e7ad726
+      internalID: -1359046855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_78
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1db36eadfb766479d5a68520ba9ab3
+      internalID: -1903752705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_79
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7bbbf2cccae7c41847054e5ceefe4b
+      internalID: -967447256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70800732e1e25f547875bd3dd9c72e67
+      internalID: -1089767469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0030fdc3350338d4bb733b4b79fcfb67
+      internalID: -774557429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_82
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f5a9af8bfda84887f5567302b70de
+      internalID: -705028848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_83
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac6bfac76a2e5244acc2ae4f9c461c8
+      internalID: 818195669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_84
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268ed245360d1049a9dd35e3f0054cc
+      internalID: 376204971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_85
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260322118fe42f149803521b2eb9ba04
+      internalID: 632934421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_86
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1074cf5d3ee5f724e872fd70257b7a34
+      internalID: 1302780778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_87
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd9d1f5ac54a2940bba5ecf6e2c8e29
+      internalID: -433611434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_88
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab959c8bdbeb6e48894db4b57c739b7
+      internalID: 1180168902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_89
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c656d6762f4144391279c23b56e348
+      internalID: -64496724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882438c84f7d0074ab1825becb1bcb5b
+      internalID: 1031670626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3fb8367f14e1f428fe4e6447e21958
+      internalID: 450798462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_92
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55165c9268a4cb4288113f15fbc05b1
+      internalID: -1494917121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_93
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea38b5b8ea9e3234eae0230f6bcf204b
+      internalID: 506007432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_94
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe56f2254e5f6f24181a0090d8fb3b15
+      internalID: -102385569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_95
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03458871d55c27349a7d240163f38327
+      internalID: 893797590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_96
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c3f3a63efba2547b387a17c96d061f
+      internalID: -864887481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_97
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e5c0c56196d15459382e8caf074397
+      internalID: 767887397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_98
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee4addfff330ba40ba8cc303695f5ec
+      internalID: 1834188803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_99
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72b85381685e0c4a91a612c948f9cd6
+      internalID: 2074523520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2436c0e2c4bbb844e8dfee49ed18e173
+      internalID: 1901934990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_101
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7515d8544daeb4897c2c713c7fca6e
+      internalID: 198479071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_102
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3e7494563d8704db2bd5664f47a5f6
+      internalID: -1621646237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_103
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017ec3e7c0571294690137fdc17d1f8f
+      internalID: -1108344722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_104
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fcd428f63070844b08bde6b2e8d786
+      internalID: 1388860447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_105
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af16b11137247049a7ae09ce57fc92f
+      internalID: 914947458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_106
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca54929033247042ab0615e87b66b2a
+      internalID: -20366333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_107
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ad338f6bf2004c8741c4d959a6597
+      internalID: -1127255416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_108
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf4b2dbf80b6a48b706d7ceee2706d
+      internalID: 508339696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_109
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e613509c4fd1cad4ca38c008991fd6a6
+      internalID: -1512212793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914d2c6711c31f94db1cdc2b8aadd9de
+      internalID: 2080779277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_111
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6585c0d46ff23a04ab4ecda93e5b1c1e
+      internalID: -678577559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0a8d55a90d5ed48bc3e17117538de0
+      internalID: -2044321513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_113
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38580c0d89709a041b6690110d41fba0
+      internalID: -791907766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_114
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac938a40a73454db772977cc4fbe41
+      internalID: -115455509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_115
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2550f21a7a001af49a3ec4121ad31c93
+      internalID: -1608181599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_116
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8008ba70140be469b0f1cb7d6362db
+      internalID: -1980342434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_117
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ed03e7cce3a684fb42038fcfa028b8
+      internalID: 741771507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_118
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6572b578af59b0d448e1d51b9f09fda4
+      internalID: 730730345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_119
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e48d144535c8374aa8d4ccc6e7dfad9
+      internalID: -1293389763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e473bf5184eb4f4b947c4b39d6e90a4
+      internalID: -240730227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c858369f80f1c4e863ccba7ccf158e
+      internalID: -1812010933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_122
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a2c27e51083a34ca58cec85f15ba92
+      internalID: 395758635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_123
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa76fa47101d8f47aeaf09cb187afd0
+      internalID: 902905674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_124
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b0fe69df026ae488135417fa257279
+      internalID: -1743542995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_125
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f050296a2888a449e2f67eabccb802
+      internalID: -1323944046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_126
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7402ffa1c2e374ca337463575e6d08
+      internalID: -326306687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_127
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e9e386a25bb24d915033517758253
+      internalID: -1603528070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_128
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195bba606e6979140aa83f322f72646f
+      internalID: 699122209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_129
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74646ecd2e229d4593c7e515a1aace0
+      internalID: 932936082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd602ac17ee46684fb7744056bd14af0
+      internalID: -992480749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_131
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635b849af52ec7479b1c508dd43a893
+      internalID: -605123503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_132
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3857e91b30db945afb605ec3b69d08
+      internalID: -770344563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_133
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcb6283b342b65449db5088e686f5e4
+      internalID: -1652876321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_134
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e5c7ad9ae9b8b40a66e311e55d0734
+      internalID: -1398952909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_135
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b4f3954dad8b41b0b36b44f4b7a9a
+      internalID: 1050916569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_136
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf9a1460a3f8d543b3c2ba47f2aabf6
+      internalID: 1773203358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_137
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ba5236406df748acf76e29ad72612
+      internalID: 344177264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_138
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd17682044bb2fe48954363fbd65720c
+      internalID: 1577331350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_139
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e941a864ca5f5d547b1cb242ecccd025
+      internalID: -464923041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f2e5ac30187ad4c800384b554f24e8
+      internalID: -1194068843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62864d73fd5494740982b589154bd904
+      internalID: -1754092712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_142
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7ed20ea7ed264a871bd72dbfec0d5
+      internalID: -717256622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_143
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4229b8fd168f1a428d439fbc4f9d897
+      internalID: -1430653617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_144
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f88278d02e29742a562c39d46b44f0
+      internalID: -1405574107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_145
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b9b5ccd5747d4d8059dfbf424479b
+      internalID: -27692994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_146
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a39d14f104714847a01e87f0f4f1582
+      internalID: -677018382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_147
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b841d6fd32ba64fa2c9ff591454ec3
+      internalID: -953344265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_148
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4421108190d89d47b936071a51676ff
+      internalID: -1464363079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_0: -1751812934
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_1: 910884382
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_10: 1168741543
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_100: 1901934990
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_101: 198479071
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_102: -1621646237
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_103: -1108344722
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_104: 1388860447
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_105: 914947458
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_106: -20366333
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_107: -1127255416
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_108: 508339696
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_109: -1512212793
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_11: 642868206
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_110: 2080779277
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_111: -678577559
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_112: -2044321513
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_113: -791907766
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_114: -115455509
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_115: -1608181599
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_116: -1980342434
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_117: 741771507
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_118: 730730345
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_119: -1293389763
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_12: 224162926
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_120: -240730227
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_121: -1812010933
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_122: 395758635
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_123: 902905674
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_124: -1743542995
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_125: -1323944046
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_126: -326306687
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_127: -1603528070
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_128: 699122209
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_129: 932936082
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_13: 1562154236
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_130: -992480749
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_131: -605123503
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_132: -770344563
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_133: -1652876321
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_134: -1398952909
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_135: 1050916569
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_136: 1773203358
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_137: 344177264
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_138: 1577331350
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_139: -464923041
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_14: 1429685534
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_140: -1194068843
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_141: -1754092712
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_142: -717256622
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_143: -1430653617
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_144: -1405574107
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_145: -27692994
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_146: -677018382
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_147: -953344265
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_148: -1464363079
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_15: -517704961
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_16: 314010669
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_17: 151483975
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_18: 933469838
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_19: 2123739830
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_2: -1144100853
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_20: 1372289648
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_21: 630001258
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_22: 1969952193
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_23: 626492737
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_24: -1606764509
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_25: 381984281
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_26: 615015951
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_27: 1086146075
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_28: -1770313751
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_29: 88043707
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_3: -726099818
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_30: 1258048769
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_31: -2118716732
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_32: 1846356846
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_33: 1193672434
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_34: -1763800954
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_35: 173271722
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_36: 667491298
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_37: -381165284
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_38: -1033055189
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_39: 1405187235
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_4: -689519266
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_40: 517234369
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_41: 506546217
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_42: -940840880
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_43: 844006727
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_44: 1604524854
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_45: 1456418135
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_46: 538968002
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_47: 1317833695
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_48: 746778353
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_49: -2044418586
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_5: -510750088
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_50: -1524470184
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_51: 424493429
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_52: -1697780447
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_53: -1584318660
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_54: -1795863140
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_55: -1224446632
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_56: -1419606464
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_57: -36984498
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_58: 1914512404
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_59: -850000167
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_6: -1593379162
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_60: 448817957
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_61: 390036686
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_62: -38351690
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_63: 668188901
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_64: -1935978029
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_65: -1431101069
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_66: -1040005153
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_67: 775967026
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_68: 1336437635
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_69: -1400427064
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_7: 1718779830
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_70: 1003623150
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_71: 46029970
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_72: -396587071
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_73: -624005810
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_74: -1327877533
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_75: -414778417
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_76: -1358320806
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_77: -1359046855
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_78: -1903752705
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_79: -967447256
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_8: -1165018304
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_80: -1089767469
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_81: -774557429
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_82: -705028848
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_83: 818195669
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_84: 376204971
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_85: 632934421
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_86: 1302780778
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_87: -433611434
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_88: 1180168902
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_89: -64496724
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_9: -666947525
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_90: 1031670626
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_91: 450798462
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_92: -1494917121
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_93: 506007432
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_94: -102385569
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_95: 893797590
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_96: -864887481
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_97: 767887397
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_98: 1834188803
+      FIREFLYFRENZYMODRA-ezgif.com-gif-to-sprite-converter (2)_99: 2074523520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

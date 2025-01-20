@@ -1,4 +1,4 @@
-using UnityEngine;
+    using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
@@ -20,7 +20,7 @@ public class LifeManager : MonoBehaviour
         }
     }
 
-    void Start()
+    private void Start()
     {
         AktualizujText();
     }
@@ -45,7 +45,6 @@ public class LifeManager : MonoBehaviour
 
     private void GameOver()
     {
-        Debug.Log("Hr·Ë ztratil vöechny ûivoty!");
         SceneManager.LoadScene("DeathScreen");
     }
 }
