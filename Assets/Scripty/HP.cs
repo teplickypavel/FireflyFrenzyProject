@@ -1,12 +1,13 @@
-    using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class LifeManager : MonoBehaviour
 {
     public static LifeManager instance;
-    public Text livesText;
-    private int zivoty = 1;
+    public TextMeshProUGUI livesText;
+    private int zivoty = 10;
 
     private void Awake()
     {

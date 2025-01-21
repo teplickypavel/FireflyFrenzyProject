@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class SitkaChytani : MonoBehaviour
 {
-    public float casOtoceni = 0.2f;  // Jak dlouho trvá otoèení
-    public float rychlostZmizeni = 2.0f; // Rychlost zmizení (alpha efekt)
-    public float cilovyUhel = -45f;  // Kam se má síka otoèit (zmìò, pokud chceš jinı úhel)
+    public float casOtoceni = 0.2f;  
+    public float rychlostZmizeni = 2.0f; 
+    public float cilovyUhel = -45f;  
 
     private bool aktivni = false;
     private float casSpusteni;

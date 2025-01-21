@@ -2,12 +2,15 @@ using UnityEngine;
 
 public class ZlataSvetluska : MonoBehaviour
 {
+    public int nasobekBodu = 5;
+
     private void OnMouseDown()
     {
-        int nasobekBodu = 4;
-        int zakladniBody = ScoreManager.instance.ZiskejZakladniBody(); // Získáme základní hodnotu bodù
-
-        ScoreManager.instance.PrictiBod(zakladniBody * nasobekBodu); // Pøièteme pouze násobené body
-        Destroy(gameObject); // Znièíme svìtlušku po chycení
+        if (ScoreManager.instance != null)
+        {
+            int zakladniBody = ScoreManager.instance.ZiskejZakladniBody();
+            ScoreManager.instance.PrictiBod(zakladniBody * nasobekBodu);
+        }
+        Destroy(gameObject); 
     }
 }
